@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"EngineAssociation": "",
-	"Category": "",
-	"Description": "",
+	"Category": "Games",
+	"Description": "Dungeon game based on dreams",
 	"Modules": [
 		{
 			"Name": "LyraGame",
@@ -180,11 +180,11 @@
 		},
 		{
 			"Name": "OnlineSubsystemEOS",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "OnlineServicesEOS",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "OnlineServicesNull",

@@ -14,7 +14,7 @@ class UGameplayTagsManager;
  *
  *	Singleton containing native gameplay tags.
  */
-struct FLyraGameplayTags
+struct LYRAGAME_API FLyraGameplayTags
 {
 public:
 
